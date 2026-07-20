@@ -1,7 +1,7 @@
 # RLMEC
 This repo provides the source code & data of our paper: [Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint](https://arxiv.org/abs/2401.06081) (Findings of ACL 2024)
 
-Institution: RUC AIBox
+**Institution: RUC AIBox**
 
 ## Framework
 
